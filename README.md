@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=MzJkWO73S70&list=PLX8Rsrpnn3IVOk48awq_nKW0aFP0MG
 
 ## CLIのデプロイコマンド
 ```firebase deploy --only hosting,storage,firestore```
+
+## デプロイ先リンク
+https://chatbot-demo-f90cc.web.app/
